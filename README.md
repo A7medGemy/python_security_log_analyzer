@@ -12,7 +12,7 @@ Features
 - Detect the most suspicious IP address
 - Generate a security report file
 
-Technologies Used
+Concepts Used
 
 - Python
 - File Handling
